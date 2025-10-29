@@ -1,18 +1,18 @@
 # SilkPacket Pro v1.0
-**Network Packet Sniffer & Analyzer**  
+**Network Packet Sniffer & Analyser**  
 **by Michael Semera**
 
 ---
 
 ## 🌐 Overview
 
-SilkPacket Pro is a powerful, real-time network packet sniffer and analyzer built with C++ and libpcap. It captures and dissects network traffic, providing detailed insights into Ethernet frames, IP packets, TCP/UDP segments, and application-layer protocols.
+SilkPacket Pro is a powerful, real-time network packet sniffer and analyser built with C++ and libpcap. It captures and dissects network traffic, providing detailed insights into Ethernet frames, IP packets, TCP/UDP segments, and application-layer protocols.
 
 ## ⚠️ IMPORTANT NOTICE
 
 **This tool requires ROOT/ADMINISTRATOR privileges to capture network packets!**
 
-**Legal Warning:** Only use this tool on networks you own or have explicit permission to monitor. Unauthorized packet sniffing is illegal in many jurisdictions.
+**Legal Warning:** Only use this tool on networks you own or have explicit permission to monitor. Unauthorised packet sniffing is illegal in many jurisdictions.
 
 ---
 
@@ -456,7 +456,7 @@ Potential features for future versions:
 - **RFC 768** - UDP Protocol
 - **RFC 791** - IP Protocol
 - **tcpdump.org** - BPF filter syntax
-- **Wireshark** - GUI packet analyzer for comparison
+- **Wireshark** - GUI packet analyser for comparison
 
 ### Similar Tools
 
@@ -528,7 +528,7 @@ Users are responsible for complying with:
 
 **Thank you for using SilkPacket Pro!**
 
-*Monitor responsibly, analyze effectively, secure thoroughly.* 🔐
+*Monitor responsibly, analyse effectively, secure thoroughly.* 🔐
 
 ---
 
@@ -541,10 +541,9 @@ For questions, suggestions, or collaboration opportunities:
 
 For issues or questions:
 - Review this documentation
-- Check troubleshooting section
+- Check the troubleshooting section
 - Ensure proper privileges and setup
 - Verify libpcap installation
 
 **Version:** 1.0  
-**Last Updated:** 2025  
-**Status:** Active Development
+**Last Updated:** 2023
